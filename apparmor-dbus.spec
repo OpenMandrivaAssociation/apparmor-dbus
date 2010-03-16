@@ -2,7 +2,7 @@ Summary:	D-Bus support for AppArmor
 Name:		apparmor-dbus
 Version:	2.3
 Epoch:		1
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	GPL
 Group:		System/Servers
 URL:		http://forge.novell.com/modules/xfmod/project/?apparmor
