@@ -5,7 +5,7 @@ Epoch:		1
 Release:	%mkrel 5
 License:	GPL
 Group:		System/Servers
-URL:		http://forge.novell.com/modules/xfmod/project/?apparmor
+URL:		https://forge.novell.com/modules/xfmod/project/?apparmor
 Source0:	%{name}-%{version}.tar.bz2
 BuildRequires:  libdbus-devel
 BuildRequires:  libaudit-devel
